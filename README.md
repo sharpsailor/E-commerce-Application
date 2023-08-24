@@ -19,8 +19,8 @@ Welcome to the GitHub repository of **E-Commerce App v1** developed by Jitender 
 1. Clone the repository:
 
 ```bash
-    git clone https://github.com/your-username/e-commerce-v1.git
-    cd e-commerce-v1
+    git clone https://github.com/sharpsailor/E-commerce-Application.git
+    cd E-commerce-Application
 
 ```
 2.  Install the dependencies:
