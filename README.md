@@ -35,8 +35,7 @@ Welcome to the GitHub repository of **E-Commerce App v1** developed by Jitender 
     
     ```plaintext
     
-    `MONGODB_URI=your_mongodb_connection_string
-    SESSION_SECRET=your_session_secret` 
+    `DB_URL=your_mongodb_connection_string` 
     ```
 4.  Start the application:
     
